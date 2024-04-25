@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "928009658670",
+    "firebase_url": "https://roomfund-b14d5-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "roomfund-b14d5",
+    "storage_bucket": "roomfund-b14d5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:928009658670:android:e4ca052edb85ec00565abf",
+        "android_client_info": {
+          "package_name": "com.example.roomfund"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "928009658670-eo2prj1oa3qdinf7b6nomb9b7qc2f2kk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.roomfund",
+            "certificate_hash": "08a1181cbe038f527e78a1a5d9f02df3f2c2f42f"
+          }
+        },
+        {
+          "client_id": "928009658670-jo0941rp1m8csi5n5rkqcm3qbivrrnrj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAh0Ilz7VzZanfphEuOxuVaNdAoD_2BJqk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "928009658670-jo0941rp1m8csi5n5rkqcm3qbivrrnrj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
